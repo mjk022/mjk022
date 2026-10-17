@@ -7,8 +7,9 @@ Business Analytics 석사과정생입니다.
 공모전과 학회에서 공공데이터·텍스트·이미지를 다루며<br>
 데이터 수집부터 모델링, 결과 해석까지 분석의 전 과정을 경험했습니다.
 
-LLM 기반 개인 맞춤 뉴스 브리핑을 직접 구성해 매일 자동으로 받아 보며,<br>
-금리·환율·주요 산업 이슈가 시장에 미치는 영향을 추적하고 있습니다.
+Claude로 매일 아침 자동 실행되는 개인 뉴스 브리핑을 직접 설계해 운영하고 있습니다.<br>
+뉴스·X·유튜브를 수집해 AI·테크, 국내외 증시·환율, 세계 경제 이슈를<br>
+주제별 카드뉴스와 Notion 기록으로 정리합니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mjk022/portfolio)
 
