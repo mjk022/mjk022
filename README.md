@@ -3,11 +3,12 @@
 안녕하세요, 데이터로 금융·경제 문제를 푸는 데 관심이 있는<br>
 Business Analytics 석사과정생입니다.
 
-정보통계학을 전공했고, 공모전과 학회에서 공공데이터·텍스트·이미지를 다루며<br>
+정보통계학을 전공하고 화학을 복수전공했으며,<br>
+공모전과 학회에서 공공데이터·텍스트·이미지를 다루며<br>
 데이터 수집부터 모델링, 결과 해석까지 분석의 전 과정을 경험했습니다.
 
-요즘은 AI를 활용해 금융·경제 뉴스를 개인 맞춤으로 받아 보며<br>
-시장 흐름을 꾸준히 따라가고 있습니다.
+LLM 기반 개인 맞춤 뉴스 브리핑을 직접 구성해 매일 자동으로 받아 보며,<br>
+금리·환율·주요 산업 이슈가 시장에 미치는 영향을 추적하고 있습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mjk022/portfolio)
 
