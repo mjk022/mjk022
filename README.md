@@ -30,7 +30,7 @@ Claude로 매일 아침 자동 실행되는 개인 뉴스 브리핑을 직접 �
 | **News Sentiment<br>Real Estate** | 생성 AI로 뉴스 감성 지수를 만들어<br>아파트 매매가격 예측 (학술지 게재) | `LLM` `Time Series` `LSTM` | [Code](https://github.com/mjk022/portfolio/tree/main/아파트매매가격예측)<br>[Demo](https://mjk022.github.io/portfolio/) |
 | **Daily News<br>Briefing** | Claude 예약 루틴으로 매일 아침<br>뉴스·X·유튜브를 주제별 브리핑으로 정리 | `LLM Agent` `Automation` | [Code](https://github.com/mjk022/portfolio/tree/main/뉴스브리핑자동화)<br>[Demo](https://mjk022.github.io/portfolio/brief/) |
 | **Recommendation<br>System** | 포스터·줄거리·장르·별점을 결합한<br>연극·뮤지컬 하이브리드 추천 | `Multimodal` `Hybrid Filtering` | [Code](https://github.com/mjk022/portfolio/tree/main/추천시스템)<br>[Demo](https://mjk022.github.io/portfolio/recommend/) |
-| **Music<br>Transformer** | 쇼팽 연주로 학습한 모델로 곡을 생성하고<br>원곡과 대조해 검증 | `Generative Model` `Transformer` | [Code](https://github.com/mjk022/portfolio/tree/main/MusicTransformer)<br>[Demo](https://mjk022.github.io/portfolio/music/) |
+| **Music<br>Transformer** | 쇼팽으로 학습한 모델에 캐롤을 추가 학습해<br>이어 연주하고 원곡과 대조해 검증 | `Generative Model` `Transformer` | [Code](https://github.com/mjk022/portfolio/tree/main/MusicTransformer)<br>[Demo](https://mjk022.github.io/portfolio/music/) |
 | **Restaurant<br>Sales Grade** | 공공데이터 8종을 결합해<br>서울 음식점 매출등급 예측 (빅콘테스트) | `Tabular ML` `ExtraTrees` | [Code](https://github.com/mjk022/portfolio/tree/main/예상매출등급) |
 | **CCTV Location** | 불법 주정차 단속 데이터로<br>CCTV 설치 후보지 선정 (광진구 공모전) | `Clustering` `Spatial Analysis` | [Code](https://github.com/mjk022/portfolio/tree/main/광진구CCTV) |
 | **YOLO v1** | 객체 탐지 논문을<br>PyTorch로 직접 구현 | `Computer Vision` | [Code](https://github.com/mjk022/portfolio/tree/main/YOLO) |
